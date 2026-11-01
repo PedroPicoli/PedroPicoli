@@ -116,30 +116,6 @@ I navigate between software, natural language model engineering, product, resear
 </tr>
 </table>
 
-<br/>
-
-## ◆ Journey
-
-- **`2014`** &nbsp; ─── &nbsp; ◈ **Inception to Programming Logic**
-  > First contact with code: algorithmic logic, scripts, and experimentation with modifying digital behaviors.
-
-- **`2017`** &nbsp; ─── &nbsp; ◈ **Interactive Systems & Automation**
-  > Development of extensions, integrations, and automation routines aimed at applications and games.
-
-- **`2019`** &nbsp; ─── &nbsp; ◈ **First Commercial Product**
-  > Conception and launch of proprietary optimization software sold under a subscription model (SaaS).
-
-- **`2020`** &nbsp; ─── &nbsp; ◈ **Narrative & Digital Strategy**
-  > Content production, technical scriptwriting, and specialized copywriting for YouTube channels (aviation).
-
-- **`2022`** &nbsp; ─── &nbsp; ◈ **Software Engineering & Applied AI**
-  > Full-stack software engineering, digital consulting, and integration of advanced artificial intelligence models.
-
-- **`2026`** &nbsp; ─── &nbsp; ◈ **Recognitions & Future**
-  > Hackavitru (Top 3% nationally) · Academic Paper at Intercom Júnior (Brasília/DF) · Completion of the Journalism cycle · Drafts of future AI models for various applications.
-
-<br/>
-
 ## ◆ Featured
 
 <table>
