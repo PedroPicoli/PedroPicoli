@@ -116,30 +116,6 @@ Transito entre software, engenharia de modelos de linguagem natural, produto, pe
 </tr>
 </table>
 
-<br/>
-
-## ◆ Trajetória
-
-- **`2014`** &nbsp; ─── &nbsp; ◈ **Iniciação à Lógica de Programação**
-  > Primeiro contato com código: lógica algorítmica, scripts e experimentação com modificação de comportamentos digitais.
-
-- **`2017`** &nbsp; ─── &nbsp; ◈ **Sistemas Interativos & Automação**
-  > Desenvolvimento de extensões, integrações e rotinas de automação voltadas para aplicações e jogos.
-
-- **`2019`** &nbsp; ─── &nbsp; ◈ **Primeiro Produto Comercial**
-  > Concepção e lançamento de software proprietário de otimização vendido sob modelo de assinatura (SaaS).
-
-- **`2020`** &nbsp; ─── &nbsp; ◈ **Narrativa & Estratégia Digital**
-  > Produção de conteúdo, roteirização técnica e copywriting especializado para canais no YouTube (aviação).
-
-- **`2022`** &nbsp; ─── &nbsp; ◈ **Engenharia de Software & IA Aplicada**
-  > Engenharia de software full-stack, consultoria digital e integração de modelos avançados de inteligência artificial.
-
-- **`2026`** &nbsp; ─── &nbsp; ◈ **Reconhecimentos & Futuro**
-  > Hackavitru (Top 3% nacional) · Artigo Acadêmico no Intercom Júnior (Brasília/DF) · Conclusão do ciclo em Jornalismo · Esboços de modelos de IA futuros para diferentes aplicações.
-
-<br/>
-
 ## ◆ Em Destaque
 
 <table>
