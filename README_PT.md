@@ -11,7 +11,6 @@
 <br/><br/>
 
 <p align="center">
-  <samp>— ·  · —</samp><br/>
   <b><font size="5"><i>Construindo Realidades</i></font></b><br/>
   <samp>— ·  · —</samp>
 </p>
